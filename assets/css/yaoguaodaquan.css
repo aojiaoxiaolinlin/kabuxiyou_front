@@ -1,0 +1,809 @@
+.bg {
+  background: url("../images/bg_n1.jpg") no-repeat center top;
+}
+
+.head_1 {
+  width: 990px;
+  height: 117px;
+  background-image: url("../images/head_1.jpg");
+  background-repeat: no-repeat;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.to-game {
+  width: 169px;
+  height: 60px;
+  float: right;
+  overflow: hidden;
+  padding: 7px 4px 0 0;
+  text-indent: -9998px;
+}
+
+.to-game a {
+  cursor: pointer;
+  width: 169px;
+  height: 60px;
+  display: block;
+}
+
+.head_2 {
+  width: 990px;
+  height: 102px;
+  background: url("../images/head_2.jpg") no-repeat;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.nav-bg {
+  width: 984px;
+  height: 70px;
+  background: url("../images/navbg.gif") no-repeat;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-left: 6px;
+}
+
+.logo {
+  width: 150px;
+  height: 76px;
+  overflow: hidden;
+  float: left;
+  text-indent: -9998px;
+}
+
+.logo a {
+  width: 150px;
+  height: 76px;
+  display: block;
+}
+
+.menu {
+  float: left;
+  height: 27px;
+  overflow: hidden;
+  padding: 18px 0 0 17px;
+}
+
+.menu ul {
+  display: block;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li {
+  float: left;
+  width: 79px;
+  height: 27px;
+  overflow: hidden;
+  text-indent: -9998px;
+  margin-right: 23px;
+  display: inline;
+}
+
+.menu ul li a {
+  
+}
+
+.nav_1 a:hover {
+  background: url("../images/navhover.gif") no-repeat;
+}
+
+.nav_2 a:hover {
+  background: url("../images/navhover.gif") no-repeat -102px 0;
+}
+
+
+.nav_3 a:hover {
+  background: url("../images/navhover.gif") no-repeat -204px 0;
+}
+
+
+.nav_4 a:hover {
+  background: url("../images/navhover.gif") no-repeat -306px 0;
+}
+
+.nav_5 a:hover {
+  background: url("../images/navhover.gif") no-repeat -408px 0;
+}
+
+.nav_6 a:hover {
+  background: url("../images/navhover.gif") no-repeat -510px 0;
+}
+
+
+.nav_7 a:hover {
+  background: url("../images/navhover.gif") no-repeat -612px 0;
+}
+
+.nav_8 a:hover {
+  background: url("../images/navhover.gif") no-repeat -714px 0;
+}
+
+.no_mar {
+  margin: 0 !important;
+}
+
+.yg_t {
+  width: 990px;
+  height: 286px;
+  background: url("../images/yg_t_e3.gif") no-repeat;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-top: 7px;
+}
+
+.yg-top {
+  height: 55px;
+  overflow: hidden;
+}
+
+.title_yg {
+  float: left;
+  width: 145px;
+  height: 30px;
+  overflow: hidden;
+  text-indent: -9998px;
+  padding: 7px 0 0 7px;
+}
+
+.cl_3 {
+  float: left;
+  height: 31px;
+  width: 740px;
+  overflow: hidden;
+  padding: 7px 0 0 0;
+}
+
+.cl_3 ul {
+  display: block;
+}
+
+.cl_3 ul li {
+  float: left;
+  margin: 0 0 0 6px;
+  display: inline;
+  overflow: hidden;
+  text-indent: -9998px;
+}
+
+.cl_3 ul li a {
+  background-image: url("../images/cl_32_e1.gif");
+  background-repeat: no-repeat;
+  display: block;
+  height: 31px;
+  width: 100px;
+}
+
+.cl_yg1 a {
+  background-position: 0 0;
+}
+
+.cl_yg1 a:hover,
+.cl_yg1 .on {
+  background-position: 0 -31px;
+}
+
+.cl_yg2 a {
+  background-position: -122px 0;
+}
+
+.cl_yg2 a:hover,
+.cl_yg2 .on {
+  background-position: -122px -31px;
+}
+
+.cl_yg3 a {
+  background-position: -246px 0;
+}
+
+.cl_yg3 a:hover,
+.cl_yg3 .on {
+  background-position: -246px -31px;
+}
+
+.cl_3 ul li.cl_yg6 a {
+  width: 87px;
+}
+
+.cl_yg6 a {
+  background-position: -636px 0;
+}
+
+.cl_yg6 a:hover,
+.cl_yg6 .on {
+  background-position: -636px -31px;
+}
+
+.cl_yg7 a {
+  background-position: -756px 0;
+}
+
+.cl_yg7 a:hover,
+.cl_yg7 .on {
+  background-position: -756px -31px;
+}
+
+.cl_yg4 a {
+  background-position: -373px 0;
+}
+
+.cl_yg4 a:hover,
+.cl_yg4 .on {
+  background-position: -373px -31px;
+}
+
+.cl_yg5 a {
+  background-position: -500px 0;
+}
+
+.cl_yg5 a:hover,
+.cl_yg5 .on {
+  background-position: -500px -31px;
+}
+
+.zimu {
+  width: 660px;
+  height: 24px;
+  overflow: hidden;
+  padding: 9px 0 0 221px;
+}
+
+.zimu ul {
+  display: block;
+}
+
+.zimu ul li {
+  width: 24px;
+  height: 24px;
+  float: left;
+  margin-right: 2px;
+  display: inline;
+}
+
+.zimu ul li a {
+  width: 24px;
+  height: 24px;
+  background-image: url("../images/zmbg.gif");
+  background-repeat: no-repeat;
+  text-indent: -9998px;
+}
+
+.zm_1 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: 0 0;
+}
+
+.zm_1 a:hover,
+.zm_1 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: 0 -24px;
+}
+
+.zm_2 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -27px 0;
+}
+
+.zm_2 a:hover,
+.zm_2 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -27px -24px;
+}
+
+.zm_3 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -55px 0;
+}
+
+.zm_3 a:hover,
+.zm_3 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -55px -24px;
+}
+
+.zm_4 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -82px 0;
+}
+
+.zm_4 a:hover,
+.zm_4 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -82px -24px;
+}
+
+.zm_5 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -110px 0;
+}
+
+.zm_5 a:hover,
+.zm_5 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -110px -24px;
+}
+
+.zm_6 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -137px 0;
+}
+
+.zm_6 a:hover,
+.zm_6 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -137px -24px;
+}
+
+.zm_7 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -165px 0;
+}
+
+.zm_7 a:hover,
+.zm_7 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -165px -24px;
+}
+
+.zm_8 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -193px 0;
+}
+
+.zm_8 a:hover,
+.zm_8 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -193px -24px;
+}
+
+.zm_9 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -220px 0;
+}
+
+.zm_9 a:hover,
+.zm_9 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -220px -24px;
+}
+
+.zm_10 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -248px 0;
+}
+
+.zm_10 a:hover,
+.zm_10 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -248px -24px;
+}
+
+.zm_11 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -275px 0;
+}
+
+.zm_11 a:hover,
+.zm_11 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -275px -24px;
+}
+
+.zm_12 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -302px 0;
+}
+
+.zm_12 a:hover,
+.zm_12 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -302px -24px;
+}
+
+.zm_13 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -330px 0;
+}
+
+.zm_13 a:hover,
+.zm_13 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -330px -24px;
+}
+
+.zm_14 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -357px 0;
+}
+
+.zm_14 a:hover,
+.zm_14 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -357px -24px;
+}
+
+.zm_15 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -385px 0;
+}
+
+.zm_15 a:hover,
+.zm_15 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -385px -24px;
+}
+
+.zm_16 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -412px 0;
+}
+
+.zm_16 a:hover,
+.zm_16 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -412px -24px;
+}
+
+.zm_17 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -440px 0;
+}
+
+.zm_17 a:hover,
+.zm_17 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -440px -24px;
+}
+
+.zm_18 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -468px 0;
+}
+
+.zm_18 a:hover,
+.zm_18 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -468px -24px;
+}
+
+.zm_19 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -495px 0;
+}
+
+.zm_19 a:hover,
+.zm_19 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -495px -24px;
+}
+
+.zm_20 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -523px 0;
+}
+
+.zm_20 a:hover,
+.zm_20 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -523px -24px;
+}
+
+.zm_21 a {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -550px 0;
+}
+
+.zm_21 a:hover,
+.zm_21 .on {
+  height: 24px;
+  width: 24px;
+  display: block;
+  background-position: -550px -24px;
+}
+
+.xibie {
+  height: 162px;
+  overflow: hidden;
+  padding: 20px 0 0 35px;
+}
+
+.xibie ul {
+  display: block;
+}
+
+.xibie ul li {
+  width: 51px;
+  height: 75px;
+  float: left;
+  margin: 0 6px 8px 0;
+  display: inline;
+}
+
+.xibie ul li a {
+  width: 51px;
+  height: 75px;
+  display: block;
+  background-image: url('../images/xi_e7.gif');
+  background-repeat: no-repeat;
+  text-indent: -9998px;
+}
+
+
+.xi_1 a {
+  background-position: 0 0;
+}
+
+.xi_1 a:hover {
+  background-position: 0 -75px;
+}
+
+.xi_2 a {
+  background-position: -57px 0;
+}
+
+.xi_2 a:hover {
+  background-position: -57px -74px;
+}
+
+.xi_3 a {
+  background-position: -115px 0;
+}
+
+.xi_3 a:hover {
+  background-position: -115px -74px;
+}
+
+.xi_4 a {
+  background-position: -172px 0;
+}
+
+.xi_4 a:hover {
+  background-position: -172px -74px;
+}
+
+.xi_5 a {
+  background-position: -229px 0;
+}
+
+.xi_5 a:hover {
+  background-position: -229px -74px;
+}
+
+.xi_6 a {
+  background-position: -286px 0;
+}
+
+.xi_6 a:hover {
+  background-position: -286px -74px;
+}
+
+.xi_7 a {
+  background-position: -344px 0;
+}
+
+.xi_7 a:hover {
+  background-position: -344px -74px;
+}
+
+.xi_8 a {
+  background-position: -401px 0;
+}
+
+.xi_8 a:hover {
+  background-position: -401px -74px;
+}
+
+.xi_9 a {
+  background-position: -458px 0;
+}
+
+.xi_9 a:hover {
+  background-position: -458px -74px;
+}
+
+.xi_10 a {
+  background-position: -516px 0;
+}
+
+.xi_10 a:hover {
+  background-position: -516px -74px;
+}
+
+.xi_11 a {
+  background-position: -573px 0;
+}
+
+.xi_11 a:hover {
+  background-position: -573px -74px;
+}
+
+.xi_12 a {
+  background-position: -630px 0;
+}
+
+.xi_12 a:hover {
+  background-position: -630px -74px;
+}
+
+.xi_13 a {
+  background-position: -687px 0;
+}
+
+.xi_13 a:hover {
+  background-position: -687px -74px;
+}
+
+.xi_14 a {
+  background-position: -745px 0;
+}
+
+.xi_14 a:hover {
+  background-position: -745px -74px;
+}
+
+.xi_15 a {
+  background-position: -802px 0;
+}
+
+.xi_15 a:hover {
+  background-position: -802px -74px;
+}
+
+.xi_16 a {
+  background-position: -858px 0;
+}
+
+.xi_16 a:hover {
+  background-position: -858px -74px;
+}
+
+.xi_17 a {
+  background-position: -914px 0;
+}
+
+.xi_17 a:hover {
+  background-position: -914px -74px;
+}
+
+.xi_18 a {
+  background-position: -969px 0;
+}
+
+.xi_18 a:hover {
+  background-position: -969px -74px;
+}
+
+.xi_19 a {
+  background-position: -1024px 0;
+}
+
+.xi_19 a:hover {
+  background-position: -1024px -74px;
+}
+
+.xi_sx a {
+  background-position: -1080px 0;
+}
+
+.xi_sx a:hover {
+  background-position: -1080px -74px;
+}
+
+.xi_20 a {
+  background-position: -1136px 0;
+}
+
+.xi_20 a:hover {
+  background-position: -1136px -74px;
+}
+
+.yg_c {
+  width: 990px;
+  background: url('../images/c_6.gif') repeat-y;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.more_yg {
+  width: 271px;
+  height: 72px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 6px 0 2px 0;
+}
+
+.yg_b {
+  width: 990px;
+  height: 38px;
+  background: url('../images/b_6.gif') no-repeat;
+  overflow: hidden;
+  margin: 0 auto;
+}
